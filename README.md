@@ -19,4 +19,4 @@
 
 ### Contato
 
-[<img src='https://img.shields.io/badge/LinkedIn-007785>style=for-the-badge&logo=LinkedIn&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/douglas-cristian-ferreira-301b0610b/)
+[<img src='https://img.shields.io/badge/LinkedIn#007785>style=for-the-badge&logo=LinkedIn&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/douglas-cristian-ferreira-301b0610b/)
