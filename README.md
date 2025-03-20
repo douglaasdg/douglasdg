@@ -20,4 +20,4 @@ i'm studying development of software, web, automation and others; i started a sh
 
 ### Contato
 
-[<img src='https://simpleicons.org/icons/linkedin.svg>style=for-the-badge&logo=LinkedIn&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/douglas-cristian-ferreira-301b0610b)
+[<img src='https://simpleicons.org/icons/linkedin.svg>style=for-the-badge&logo=LinkedIn&logoColor=white' alt='LinkedIn' height='30'>](www.linkedin.com/in/douglas-cristian-3a6602354)
